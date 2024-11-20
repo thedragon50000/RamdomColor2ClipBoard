@@ -1,0 +1,16 @@
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\bin\Debug\net6.0-windows\RandomColor_ByAlpha.exe
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\bin\Debug\net6.0-windows\RandomColor_ByAlpha.deps.json
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\bin\Debug\net6.0-windows\RandomColor_ByAlpha.runtimeconfig.json
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\bin\Debug\net6.0-windows\RandomColor_ByAlpha.dll
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\bin\Debug\net6.0-windows\RandomColor_ByAlpha.pdb
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByAlpha.Form1.resources
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByAlpha.csproj.GenerateResource.cache
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByAlpha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByAlpha.AssemblyInfoInputs.cache
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByAlpha.AssemblyInfo.cs
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByAlpha.csproj.CoreCompileInputs.cache
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByAlpha.dll
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\refint\RandomColor_ByAlpha.dll
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByAlpha.pdb
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByAlpha.genruntimeconfig.cache
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\ref\RandomColor_ByAlpha.dll

@@ -1,0 +1,16 @@
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByBrightness.Form1.resources
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByBrightness.csproj.GenerateResource.cache
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByBrightness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByBrightness.AssemblyInfoInputs.cache
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByBrightness.AssemblyInfo.cs
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByBrightness.csproj.CoreCompileInputs.cache
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\bin\Debug\net6.0-windows\RandomColor_ByBrightness.exe
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\bin\Debug\net6.0-windows\RandomColor_ByBrightness.deps.json
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\bin\Debug\net6.0-windows\RandomColor_ByBrightness.runtimeconfig.json
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\bin\Debug\net6.0-windows\RandomColor_ByBrightness.dll
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\bin\Debug\net6.0-windows\RandomColor_ByBrightness.pdb
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByBrightness.dll
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\refint\RandomColor_ByBrightness.dll
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByBrightness.pdb
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\RandomColor_ByBrightness.genruntimeconfig.cache
+C:\Users\JUA08\Desktop\RandomColor_ByAlpha\RandomColor_ByAlpha\obj\Debug\net6.0-windows\ref\RandomColor_ByBrightness.dll
