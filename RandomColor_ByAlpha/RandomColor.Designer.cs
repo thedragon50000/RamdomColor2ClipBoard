@@ -1,6 +1,6 @@
 ﻿namespace RandomColor_ByBrightness;
 
-partial class Form1
+partial class RandomColor
 {
     /// <summary>
     ///  Required designer variable.
@@ -103,8 +103,8 @@ partial class Form1
         Controls.Add(label1);
         Controls.Add(alphaTextBox);
         Controls.Add(buttonTransfer);
-        Name = "Form1";
-        Text = "Form1";
+        Name = "RandomColor";
+        Text = "RandomColor";
         ResumeLayout(false);
         PerformLayout();
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JUA08\\Desktop\\RandomColor_ByAlpha\\RandomColor_ByAlpha\\RandomColor_ByBrightness.csproj": {}
+    "C:\\Users\\JUA08\\Desktop\\RamdomColor2ClipBoard\\RandomColor_ByAlpha\\RandomColor_ByBrightness.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JUA08\\Desktop\\RandomColor_ByAlpha\\RandomColor_ByAlpha\\RandomColor_ByBrightness.csproj": {
+    "C:\\Users\\JUA08\\Desktop\\RamdomColor2ClipBoard\\RandomColor_ByAlpha\\RandomColor_ByBrightness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JUA08\\Desktop\\RandomColor_ByAlpha\\RandomColor_ByAlpha\\RandomColor_ByBrightness.csproj",
+        "projectUniqueName": "C:\\Users\\JUA08\\Desktop\\RamdomColor2ClipBoard\\RandomColor_ByAlpha\\RandomColor_ByBrightness.csproj",
         "projectName": "RandomColor_ByBrightness",
-        "projectPath": "C:\\Users\\JUA08\\Desktop\\RandomColor_ByAlpha\\RandomColor_ByAlpha\\RandomColor_ByBrightness.csproj",
+        "projectPath": "C:\\Users\\JUA08\\Desktop\\RamdomColor2ClipBoard\\RandomColor_ByAlpha\\RandomColor_ByBrightness.csproj",
         "packagesPath": "C:\\Users\\JUA08\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JUA08\\Desktop\\RandomColor_ByAlpha\\RandomColor_ByAlpha\\obj\\",
+        "outputPath": "C:\\Users\\JUA08\\Desktop\\RamdomColor2ClipBoard\\RandomColor_ByAlpha\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JUA08\\AppData\\Roaming\\NuGet\\NuGet.Config",

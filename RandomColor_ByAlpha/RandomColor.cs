@@ -2,14 +2,14 @@ using System.Reflection.Emit;
 
 namespace RandomColor_ByBrightness;
 
-public partial class Form1 : Form
+public partial class RandomColor : Form
 {
     private static readonly Random random = new Random();
     private double _brightness;
     private const double _tolerance = 0; // 亮度容忍範圍
     private int R, G, B;
 
-    public Form1()
+    public RandomColor()
     {
         InitializeComponent();
     }
@@ -69,7 +69,7 @@ public partial class Form1 : Form
 
         // 顯示結果
         Console.WriteLine($"Generated RGB: R={R}, G={G}, B={B}, Brightness={_brightness}");
-        resultLabel.Text = $"R={R}, G={G}, B={B}, Brightness={Math.Round(_brightness,1)}";
+        resultLabel.Text = $"R={R}, G={G}, B={B}, Brightness={Math.Round(_brightness, 1)}";
 
         canvas.BackColor = Color.FromArgb(R, G, B);
         // 創建 Bitmap 並繪製顏色
@@ -85,4 +85,5 @@ public partial class Form1 : Form
             //MessageBox.Show("顏色圖片已複製到剪貼簿！");
         }
     }
+
 }
