@@ -23,31 +23,32 @@ public partial class RandomColor : Form
     // TextChanged 確保內容合法
     private void alphaTextBox_TextChanged(object sender, EventArgs e)
     {
-        if (int.TryParse(alphaTextBox.Text, out var value))
+        int.TryParse(alphaTextBox.Text, out var value);
+
+        if (value >= 100)
         {
-            if (value >= 256)
-            {
-                alphaTextBox.Text = "255"; // 自動修正為最大值
-                alphaTextBox.SelectionStart = alphaTextBox.Text.Length; // 將游標放到最後
-            }
+            alphaTextBox.Text = "100"; // 自動修正為最大值
+            alphaTextBox.SelectionStart = alphaTextBox.Text.Length; // 將游標放到最後
         }
-        else if (!string.IsNullOrEmpty(alphaTextBox.Text))
-        {
-            alphaTextBox.Text = string.Empty; // 非法輸入清空
-        }
+
     }
 
     private void middleGrayButton_Click(object sender, EventArgs e)
     {
-        alphaTextBox.Text = "128"; // 設定目標亮度為128
-        var targetBrightness = float.Parse(alphaTextBox.Text) / 255f;
+        alphaTextBox.Text = "50"; // 設定目標亮度為128
+        var targetBrightness = 0.5f;
         GetHSB(targetBrightness);
     }
 
     private void buttonTransfer_Click(object sender, EventArgs e)
     {
-        var targetBrightness = float.Parse(alphaTextBox.Text) / 255f;
-        GetHSB(targetBrightness);
+        float.TryParse(alphaTextBox.Text, out var value);
+        if (value >= 0)
+        {
+            float fBrightness = float.Parse(alphaTextBox.Text);
+            var targetBrightness = fBrightness / 100f;
+            GetHSB(targetBrightness);
+        }
     }
 
     // 根據指定的亮度調整顏色

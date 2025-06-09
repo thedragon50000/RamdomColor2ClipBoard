@@ -61,7 +61,7 @@ partial class RandomColor
         alphaTextBox.Name = "alphaTextBox";
         alphaTextBox.Size = new Size(100, 23);
         alphaTextBox.TabIndex = 1;
-        alphaTextBox.Text = "128";
+        alphaTextBox.Text = "50";
         alphaTextBox.TextAlign = HorizontalAlignment.Center;
         alphaTextBox.TextChanged += alphaTextBox_TextChanged;
         alphaTextBox.KeyPress += alphaTextBox_KeyPress;
